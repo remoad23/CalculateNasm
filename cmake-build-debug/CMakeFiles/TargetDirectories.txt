@@ -1,0 +1,3 @@
+C:/Users/paddy/CLionProjects/CalculateNasm/cmake-build-debug/CMakeFiles/CalculateNasm.dir
+C:/Users/paddy/CLionProjects/CalculateNasm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/paddy/CLionProjects/CalculateNasm/cmake-build-debug/CMakeFiles/rebuild_cache.dir

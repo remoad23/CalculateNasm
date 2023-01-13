@@ -1,0 +1,8 @@
+# ninja log v5
+1	110	6953202730358533	build.ninja	99762af83d4ca1b6
+3	16	6953109627485182	CMakeFiles/CalculateNasm.dir/main.asm.obj	4c033e0c77419e1b
+2	71	6953168351411558	CMakeFiles/CalculateNasm.dir/main.c.obj	b1a34a730304e97d
+13	123	6952919900540996	CalculateNasm.exe	549d59811bd4a775
+16	36	6953202777915837	CMakeFiles/CalculateNasm.dir/main.asm.obj	4c033e0c77419e1b
+3	221	6953202779693639	CMakeFiles/CalculateNasm.dir/main.c.obj	61f4f26a3de57f37
+0	13	6953206734194407	CMakeFiles/CalculateNasm.dir/main.asm.obj	4c033e0c77419e1b

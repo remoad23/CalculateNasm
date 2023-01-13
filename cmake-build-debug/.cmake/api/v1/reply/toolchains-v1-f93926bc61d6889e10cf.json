@@ -1,0 +1,86 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "NASM",
+				"implicit" : {},
+				"path" : "C:/Users/paddy/AppData/Local/bin/NASM/nasm.exe",
+				"version" : ""
+			},
+			"language" : "ASM_NASM",
+			"sourceFileExtensions" : 
+			[
+				"nasm",
+				"asm"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"C:/mingw32bit/lib/gcc/mingw32/6.3.0/include",
+						"C:/mingw32bit/include",
+						"C:/mingw32bit/lib/gcc/mingw32/6.3.0/include-fixed",
+						"C:/mingw32bit/mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"C:/mingw32bit/lib/gcc/mingw32/6.3.0",
+						"C:/mingw32bit/lib/gcc",
+						"C:/mingw32bit/mingw32/lib",
+						"C:/mingw32bit/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex"
+					]
+				},
+				"path" : "C:/mingw32bit/bin/gcc.exe",
+				"version" : "6.3.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "C:/mingw32bit/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
